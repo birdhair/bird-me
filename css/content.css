@@ -7,6 +7,10 @@
 .grey-background {
     background-color: #dadada;
 }
+.black-background {
+    background-color: black;
+    color: white;
+}
         .silex-id-1488365138615-7 {
             top: 0px; 
             left: 0px; 
@@ -58,7 +62,7 @@
             left: 0px; 
             background-color: rgba(75,75,75,1); 
         }
-        .silex-id-1488364699112-2 {
+        .bird-nav1 {
             min-height: 61px; 
             background-color: transparent; 
         }
