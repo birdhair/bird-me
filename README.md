@@ -1,5 +1,3 @@
-# bird-me
-hair that soars above
 <!DOCTYPE html>
 <html>
 
@@ -328,4 +326,3 @@ hair that soars above
 </body>
 
 </html>
-© 2018 GitHub, In
